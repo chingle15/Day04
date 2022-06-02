@@ -18,7 +18,7 @@ public class ReaderMain {
         BufferedReader br = new BufferedReader(reader);
 
         String line = "";
-        int lineNum = 0;
+        int lineNum = 1;
 
 
         while (line!= null) {
